@@ -1,0 +1,215 @@
+body{
+margin: 0px;
+background-color: #000000;
+font-family: 'Roboto', sans-serif;
+}
+
+.bok{
+  position: absolute;
+  left:220px;
+  top: 30px;
+}
+
+.flag{
+width: 80px;
+position: fixed;
+top: 35px;
+left: 550px;
+}
+
+.homepage-img {
+margin: 0px;
+width: 1280px;
+height: 620px;
+}
+
+.par1{
+position: absolute;
+left:220px;
+top: 100px;
+font-size: 15px;
+}
+
+
+
+.line00{
+  height: 80px;
+  width: 1280px;
+  background-color: white;
+  position: fixed;
+  top: 35px;
+}
+.line000{
+  margin-left: 150px;
+}
+
+.LINEA{
+  margin-left: 180px;
+  font-size: 15px;
+}
+
+.LINEAB{
+  margin-left: 390px;
+  font-size: 15px;
+}
+.LINEA1{
+  margin-left: 180px;
+  font-size: 15px;
+}
+
+.LINEAB1{
+  margin-left: 390px;
+  font-size: 15px;
+}
+
+
+.secondpage{
+  height:600px;
+  width: 1280px;
+  background-color: #191A19;
+  color: white;
+  font-size: 30px;
+}
+
+.BLEDIE{
+  width: 200PX;
+  height: 50PX;
+  position: absolute;
+  top: 680PX;
+  left: 120PX;
+}
+
+.lekker{
+  width: 5px;
+  height: 100px;
+  background-color: white;
+  position: absolute;
+  left: 270px;
+  top: 680px;
+}
+
+.BILTONG{
+  font-size: 15px;
+  position: absolute;
+  left: 290PX;
+  top: 725PX;
+}
+
+.BILTONG1{
+  font-size: 15px;
+  position: absolute;
+  left: 200px;
+  top: 800px
+}
+
+.BILTONG2{
+  font-size: 25PX;
+  position: absolute;
+  left: -50px;
+  top: 70px;
+}
+
+.bil-img1{
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+}
+
+.bil-img2{
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+  position: absolute;
+  top: 150px;
+  left: 250px;
+}
+.bil-img3{
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+  position: absolute;
+  top: 150px;
+  left: 500px;
+}
+.bil-img4{
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+  position: absolute;
+  top: 150px;
+  left: 750px;
+}
+
+.Shop1{
+  position: absolute;
+  left: 10%;
+  top:100px;
+  width: 1000px;
+  height: 2500px;
+  background-color: white;
+  border: solid 2px red;
+}
+.Shop11{
+  font-size: 13px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  width: 150px;
+  height: 750px;
+  position: fixed;
+  left: 150px;
+}
+
+.shopline1{
+  position: absolute;
+  top: 150px;
+}
+
+.shopline2{
+  position: absolute;
+  top: 150px;
+  left: 400px;
+}
+
+.shopline3{
+  position: absolute;
+  top: 150px;
+  left: 530px;
+}
+
+.CompanyInfo{
+  background-color: black;
+  height: 150px;
+  width: 1280px;
+  position: absolute;
+  top: 1225px;
+}
+.line1{
+color:white;
+}
+
+.table1 {
+  position: fixed;
+  left: 800px;
+  top: 10px;
+  font-size: 15px;
+}
+.line0{
+  height: 120px;
+  width: 1280px;
+  background-color: #39311D;
+  position: fixed;
+  top: 0px;
+}
+
+.contact-us{
+  color: white;
+  background-color: black;
+  position: absolute;
+  top: 150px;
+  left: 50%;
+}
